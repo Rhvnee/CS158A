@@ -1,0 +1,9 @@
+Sent: uuid=be2ba45c-3715-44fe-a152-aa369e01a8bc, flag=0
+Received: uuid=be2ba45c-3715-44fe-a152-aa369e01a8bc, flag=0, same, 0
+Leader is decided to be2ba45c-3715-44fe-a152-aa369e01a8bc
+Sent: uuid=be2ba45c-3715-44fe-a152-aa369e01a8bc, flag=1
+Received: uuid=be2ba45c-3715-44fe-a152-aa369e01a8bc, flag=1, same, 1, leader_id=be2ba45c-3715-44fe-a152-aa369e01a8bc
+Leader is decided to be2ba45c-3715-44fe-a152-aa369e01a8bc
+Received: uuid=97b91968-6ded-43cf-8901-ce1cc94509e2, flag=0, less, 1, leader_id=be2ba45c-3715-44fe-a152-aa369e01a8bc
+Ignored smaller UUID
+Leader is be2ba45c-3715-44fe-a152-aa369e01a8bc
